@@ -31,4 +31,26 @@ Este projeto compreende um conjunto de três planilhas destinadas a monitorar o 
 
 
 Este projeto representa o segundo desafio do curso, sendo o primeiro a envolver a construção de uma interface. Durante sua realização, foram utilizadas diversas funções, como SE(), SOMASE() e SOMASES(), além da incorporação de tabelas e a criação de um gráfico para facilitar a análise dos dados
+
+# 3# Projeto FLuxo de Caixa Empresarial
+Este projeto consiste em um sistema de Fluxo de Caixa que poderá ser utilizado de verdade em vários tipos de
+negócio. O sistema vai trabalhar tanto com regime de caixa como com regime de competência.
+
+**O sistema contém:**
+
+*CADASTROS*
+- Plano de contas de entradas e saídas em dois níveis
+- Lançamento de entrada e saída do fluxo do caixa
+
+*RELATÓRIOS* 
+- Fluxo de caixa e resultado mensal
+- Detalhamento de despesas e receitas
+- Contas a pagar e contas a receber
+
+*DABOARDS:*
+- Posição atual
+- Posição Anual
+
+
+  
  
