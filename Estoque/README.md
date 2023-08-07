@@ -17,5 +17,5 @@ Este projeto compreende um conjunto de três planilhas destinadas a monitorar o 
  <a href="https://imgur.com/1nqzUkR"><img src="https://i.imgur.com/1nqzUkR.png" title="source: imgur.com" /></a>
 
 
-Este projeto representa o segundo desafio do curso, sendo o primeiro a envolver a construção de uma interface. Durante sua realização, foram utilizadas diversas funções, como SE(), SOMASE() e SOMASES(), além da incorporação de tabelas e a criação de um gráfico para facilitar a análise dos dados
+Este projeto representa o segundo desafio do curso, sendo o primeiro a envolver a construção de uma interface. Durante sua realização, foram utilizadas diversas funções, como `SE()`, `SOMASE()` e `SOMASES()`, além da incorporação de tabelas e a criação de um gráfico para facilitar a análise dos dados
  
