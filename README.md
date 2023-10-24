@@ -1,3 +1,28 @@
+
+# Funções vistas no curso
+|Função|FUNÇÂO |
+|-----|-----|
+|procv() ||
+|SE() | CONTSE()|
+|CONTSES() |   DESLOC()|
+|CORRESP()  |  PROCH()|
+|SOMA()   |    SOMASE()|
+|HOJE()   |    ANO()|
+|DIA()     |   MÊS()|
+|OU()       |  MÉDIA()|
+|MAIOR()   |   MENOR()|
+|MÍNIMO()   |  CONT.NÚM()|
+|CONT.VALORES() |  CONT.VAZIO()|
+|MÉDIASE()     |  MÉDIASES()|
+|PGTO()       |   VP()|
+|VF()         |   macro|
+|tabela      |    tabela dinâmica|
+|gráfico      |   objetos  e formas|
+|figuras      |   filtros|
+|DIATRABALHOTOTAL()   |  E()|
+
+
+
 # 1# Projeto recibo de pagamento
 Neste projeto foram feitas três planilhas para controlar o pagamento mensal de serviços prestados por autônomos
 Esse foi o primeiro projeto do curso, um projeto bem básico, mas bastante útil.
