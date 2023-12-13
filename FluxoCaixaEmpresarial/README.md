@@ -29,4 +29,4 @@ negócio. O sistema vai trabalhar tanto com regime de caixa como com regime de c
 
 <a href="https://imgur.com/FrneHN1"><img src="https://i.imgur.com/FrneHN1.png" title="source: imgur.com" /></a>
 
-"Este foi o terceiro projeto do meu curso e, sem dúvidas, o mais completo e útil para o meu aprendizado em Excel avançado. Durante o desenvolvimento do projeto, tive a oportunidade de utilizar diversas funções poderosas, como `DESLOC()`, `CORRESP()`, `SOMASES()`e `SE()`, além de explorar o uso de tabelas, tabelas dinâmicas, gráficos e gráficos dinâmicos.
+Este foi o terceiro projeto do meu curso e, sem dúvidas, o mais completo e útil para o meu aprendizado em Excel avançado. Durante o desenvolvimento do projeto, tive a oportunidade de utilizar diversas funções poderosas, como `DESLOC()`, `CORRESP()`, `SOMASES()`e `SE()`, além de explorar o uso de tabelas, tabelas dinâmicas, gráficos e gráficos dinâmicos.
